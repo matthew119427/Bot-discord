@@ -1,0 +1,39 @@
+{
+    "nb Sessions": 2, 
+    "Session1": {
+        "Start": "02/07/2018 - 18:00", 
+        "Joueurs": {
+            "Raphaël": {
+                "win": 2,
+                "loose": 3
+            },
+            "Lucas": {
+                "win": 4,
+                "loose": 2
+            },
+            "Julien": {
+                "win": 2,
+                "loose": 3
+            }
+        },
+        "End": "02/07/2018 - 19:30"
+    },
+    "Session2": {
+        "Start": "02/07/2018 - 22:00", 
+        "Joueurs": {
+            "Raphaël": {
+                "win": 0,
+                "loose": 0
+            },
+            "Lucas": {
+                "win": 0,
+                "loose": 0
+            },
+            "Julien": {
+                "win": 0,
+                "loose": 0
+            }
+        },
+        "End": "02/07/2018 - 23:40"
+    }
+}

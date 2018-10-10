@@ -1,0 +1,19 @@
+{
+  "Session1": {
+    "Date": "01/07/2018 - 20:20", 
+    "Joueurs": {
+      "Raphaël": {
+        "win": 1,
+        "loose": 3,
+      },
+      "Lucas": {
+        "win": 4,
+        "loose": 0,
+      },
+      "Julien": {
+        "win": 3,
+        "loose": 1,
+      }
+    }
+  }
+}
