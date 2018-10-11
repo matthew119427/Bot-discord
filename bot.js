@@ -205,4 +205,4 @@ dispatcher.on('end', () => {
 });
 
 
-client.login('NDYyMzQ0NzI4NTc5NTM4OTQ0.Dhgf1g.07wIKiaFkzJP2qdPh5NjTm3uei4');
+client.login(''); //Removing your token from GitHub
